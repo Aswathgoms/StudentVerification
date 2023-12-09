@@ -1,0 +1,9 @@
+<?php
+session_start();
+include_once("include/header.php");
+include_once("include/onavbar.php");
+include_once("include/connection.php")
+?>
+<?php
+include_once("include/footer.php");
+?>
